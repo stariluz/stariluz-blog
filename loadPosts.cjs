@@ -15,13 +15,20 @@ const generatePostsJson = () => {
         const posts = files.map(file => {
             const filePath = path.join(postsDirectory, file);
             const fileContent = fs.readFileSync(filePath, "utf-8");
+            const stats = fs.statSync(filePath);
 
             // Obtener descripción (100 caracteres después del título)
             const content = fileContent.trim().substring(0, 256);
 
+            // Extraer fechas de creación y modificación
+            const createdAt = stats.birthtime; // Fecha de creación
+            const updatedAt = stats.mtime;    // Fecha de última modificación
+
             return {
                 filename: file,
                 content,
+                createdAt: createdAt.toISOString(), // Convertir a formato ISO
+                updatedAt: updatedAt.toISOString(),
             };
         });
 

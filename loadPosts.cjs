@@ -14,18 +14,14 @@ const generatePostsJson = () => {
 
         const posts = files.map(file => {
             const filePath = path.join(postsDirectory, file);
-            const content = fs.readFileSync(filePath, "utf-8");
-
-            // Obtener título (primera línea)
-            const title = content.split("\n")[0].replace(/#/g, "").trim();
+            const fileContent = fs.readFileSync(filePath, "utf-8");
 
             // Obtener descripción (100 caracteres después del título)
-            const description = content.replace(title, "").trim().substring(0, 256);
+            const content = fileContent.trim().substring(0, 256);
 
             return {
                 filename: file,
-                title,
-                description,
+                content,
             };
         });
 

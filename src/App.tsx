@@ -1,11 +1,9 @@
 import './App.css';
-import PostList from './components/PostList/PostList';
+import PublicRoute from './routes/PublicRoute';
 
 function App() {
   return (
-    <div>
-      <PostList />
-    </div>
+      <PublicRoute />
   );
 }
 

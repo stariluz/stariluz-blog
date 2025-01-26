@@ -4,8 +4,7 @@ import './PostList.css';
 
 interface Post {
   filename: string;
-  title: string;
-  description: string;
+  content: string;
 }
 
 const postsList: Array<Post> = posts;
@@ -13,13 +12,12 @@ const postsList: Array<Post> = posts;
 const PostList = () => {
   return (
     <div className="post-list">
-      <h1>Posts de stariluz</h1>
+      <h1>Soy Luz Elissa Adora</h1>
       <div className="grid">
         {postsList.map((post, index) => (
           <div key={index} className="post-item">
-            <h2>{post.title}</h2>
-            <MarkdownParser markdown={post.description}></MarkdownParser>
-            <a href={`/posts/${post.filename}`} target="_blank" rel="noopener noreferrer" className="post-item-link">
+            <MarkdownParser markdown={post.content}></MarkdownParser>
+            <a href={`/${post.filename}`} className="post-item-link">
             </a>
           </div>
         ))}

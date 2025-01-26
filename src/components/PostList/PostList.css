@@ -63,7 +63,7 @@
     gap: 20px;
 }
 
-h2 {
+.post-item h1 {
     font-size: 1.5rem;
     color: #8430eb;
 }

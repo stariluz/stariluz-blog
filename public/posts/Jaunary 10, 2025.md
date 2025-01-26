@@ -1,0 +1,94 @@
+# El mejor viaje de mi vida. Pt.3 y final
+
+> Ya es mañana UwU, sigamos.
+
+En fin, el karaoke nos duró mucho tiempo hasta que no recuerdo por que situación, nos fuimos adentro, creo que la gente se empezó a ir.
+
+Algo muy gracioso es que lloré un poco, por que hubo una situación con "el primo" que no lograba entender, y dado que estaba toda peda, senti impotencia de no poder entender la situación y me solte llorando. No digo mucho para no involucrar información más personal, pero, en resumen, pese a que no lo entendí en ese momento, si no hasta el día siguiente, "el primo", es mi primo, es tu primo, es nuestro primo y yo puedo ser la abuelita jsjsjs.
+
+### Beer Pong
+
+Total. Ya habiendose retirado varias personas, y ya siendo casi las 12 de la noche, primero, hice mi duolingo, por que no podía fallarle a duo; y después nos pusimos a jugar beerpong. Terdamos un poco en empezar por que la anfitriona y su hermana fueron a ponerse pillama de una vez, y tardaron como media hora en volver a salir. Tambien creo que andaban preparando más cosas.
+
+Empezamos a jugar, y me di cuenta que soy terrible en el beerpong estando tomada, ni una vez pude meter la pelota :c.
+Hubieron situaciones sociales graciosas y otras algo curiosas. Nuevamente, no soy quien pa exponer a nadie, así que me las llevare conmigo hasta la siguiente peda (espero y sea nunca UwU pq ya dejé el alcohol).
+
+Al final, dejamos de jugar por que Scrappy, la mascota gigante de mi amiga, me dio un cabezaso a la nariz, cosa, que nuevamente me hizo llorar, esta vez de dolor por que me dolio UN CHINGO. Me acompañaron adentro a centarme y me dieron un hielo para la nariz. Pobrecito Scrappy, termino regañado por mi culpa, yo fui bien imprudente me puse a soplarle en la cara para distraerlo de la pelota, y pues me cobro factura. 
+
+Entonces entran, y ahí platicamos un ratito, lamentablemente ya no recuerdo de que. Y luego nos pusimos a jugar Twister.
+
+### Twister
+Somos adultos de 20 años y mayores. Obviamente no aguantamos mas que una partida de Twister, y ganó la persona de menor edad jajaja. Dejamos de jugar twister UwU.
+
+Luego de eso, ibamos a jugar verdad o reto. No obstante, como al segundo turno, aparecieron los 2 acaparadores de la platica y acapararon la platica xD. Algunas personas si podian meterse poquito de vez en cuando, aunque fue poco. Luego de unos 20 minutos me aburrí y fui al baño para cambiarme, cuando volví, ya habían preparado el colchon inflable para dormir, así, que me acoste al ver que seguian con la misma plática. Facilmente se comieron la hora platicando y esta cool si fuese una platica en la que pudiera entrar jajaja.
+
+### Dormir.
+A las 4 y 50 aproximadamente, estos chavos empezaron a entender que ya era hora de irse UwU, o quedarse a dormir, cosa que no querían. Me dio mucha risa que uno de ellos dijo algo como "de hecho me iba a ir a las 3 y media"... HDP nos cagaste el verdad o reto y dices esa mamada jajaja.
+
+> Aclaración. Si lees esto, no hay ningún pedo, andaba peda y no pase un mal rato como tal. Pero wey, si te mamaste xd. Me da mucha risa recordarlo).
+
+En fin, se retiraron, y al fin. Yo, empedada, sin darme cuenta que las anfitrionas también traían sueño, insisti en continuar el verdad o reto. Más no obstante, luego de 2 o 3 preguntas, yo me atore un buen rato respondiendo, y al final la hermana de mi amiga se retiro a dormir. 
+
+Para este punto ya estabamos acostadxs 3 personas y más al rato le hicimos cupo a la cuarta persona.
+
+Seguimos platica y platica hasta las 6 de la mañana. Creo que dijimos algunas cositas curiosas, extrañas y muy interesantes jsjsjs. De mi parte, compartí ciertas incertidumbres que tengo respecto a algunas situaciones en mi vida, mi casi algo, por que no quiero tener hijos, y por que quizá en el futuro no pueda.
+
+En fin, dieron las 6. Y les gano el sueño a mis amixs anfitriones así que se retiraron a dormir. El amigo que me acompaño durmió en el sillón, no quizó dormir en el colchón conmigo 😭. Pero en fin, luego de un rato consilie el sueño y me dormi.
+
+### Hora de Despertar.
+A las 8 y media de la mañana nos desperto el sonar de un celular. Creemos que fue el del celular del padre de mi amiga, aunque no estamos segurxs.
+
+Pude dormirme otra hora mas pero como a las 10 ya alfín desperte y fui al baño.
+
+Saliendo, mi amigo ya había recogido sus sabanas y así, pero yo todavía me acoste un rato.
+
+Cuando regreso el padre de mi amiga, como no sabíamos si era el, la tuvimos que despertar para que le abriera. Si era el jsjsjs. Empezamos a recoger cosas de donde dormimos, aunque el se quedó afuera todavía un rato limpiando el patio creo.
+
+Igual y mi amiga insistio en que nos acostaramos sin problema. Y ella me robo el colchón así que yo robé el sillón. Luego de hora y media, al fin nos levantamos, doblamos algunas cobijas, y mi amiga barrio la basura que habíamos dejado el día anterior.
+
+Luego de esto, y esperando a que mi otro amigo se despertara. Empezamos a platicar de situaciones de la vida. Nuevamente, cosas muuuuy personales pero estas no las suelto si no es con ellxs.
+
+Para mí, platicar todo eso me encendío sentimientos muy fuertes de tristeza, empatía, fortaleza, entre otros, pero, lo que senti mayormente fue admiración.
+
+Ahora tengo una referencia de felicidad a la que me gustaría llegar y la manera en la que quiero llegar. No se lo he dicho a nadie, quizá la primera vez que lean esté blog sea la primera vez que lo leas. Pero, a esa persona, quiero decirle que me inspiro muchisimo escucharte y que me escucharas. Siempre te he venido con mis problemas y que si me quiero quitar la vida o así. Perdón, ya no lo haré más, mi meta de vida a partir de esa mañana es ser como tú. Tratar de ver las cosas positivas lo más que pueda, y tratar de afrontar las negativas con la mejor actitud, o intentar arreglar lo que pueda arreglar, o comprender lo que pueda comprender. Quiero desbordar felicidad y alegría como tu lo haces para que al igual que tu felicidad me cuidó durante todo el año, yo pueda cuidar de mis personas queridas. Ya te quería mucho pero a partir de ese día te quiero mucho más.
+
+### El Desayuno.
+Nos trajeron huevitos así que mi amiga se puso a prepararlos, yo calente tortillas aunque no me percate de un tortillero improvisado y se me enfriaron jsjsj. Me dieron frijoles y un guiso recalentado con el huevito, y neta amiga, el desayuno me supo a gloria. Muchos muchos thankius por el :3.
+
+Cuando terminabamos, ya fuimos a despertar a mi otro amigo quien tiene el sueño bien pesado y al fin se desperto, durante una hora más o menos estuvimos platicando y jugando algunos jueguitos de mesa, y luego de eso salimos, ibamos a pasear a Scrappy al mirador de Cuahutémoc.
+
+### El mirador.
+No estaba tan lejos el mirador, aunque si nos tocó subir el cerro por una calle. Estuvo bien bonito aunque al principio me faltaba el aire por que al estar frio, me caló respirarlo. Llegamos al Mirador y pude ver la grandeza de la ciudad. Además de estar preciosa, está muy grande, me encantó. Fuimos moviendonos por el mirador para ver más lados de la ciudad y nos fueron contando historias personales o de la ciudad. Al final ya bajamos del mirador todavía platicando, y me divertí mucho. Volvimos a tiempo para ya irnos a la estación de camiones, pero, todavía nos quisieron llevar a comprar unos elotes, aunque yo solamente compre nieve. Me convidieron poquito de una banderilla y una maruchan. La nieve no estaba tan buena :P, la comida si estaba muy rica pero el picor de la maruchan si me ardio en el estomago. Nos dieron las 5 ahí así que ya no alcanzamos el camión, tendríamos que irnos al de las 6, por si acaso llegamos a comprar los boletos.
+
+De ahí, nos fuimos a caminar para otro lado, que no sabíamos a donde nos llevaban. Aprovechando el viaje, mis amixs decidieron pasar a recoger un paquete que nos hizo caminar como 25 minutos para llegar, dejandonos con media hora para recoger las maletas e ir a la estación. Nimodo nos pusimos nitro y llegamos a recoger las maletas bien apuradxs. Casi ni me despido, pero al final si les agradecí mucho la hospitalidad al padre y a la hermana, y salimos corriendo por que no alcanzaríamos el camión.
+Llegamos faltando 15 minutos gracias a que corrimos mucho.
+En la estación, platicamos un poquito, recorde que olvide mi termo, hablaron de los gatitos que nuestro amigo que nos acompañaba de Chihuahua estaba cuidando por mientras, y luego de unos 20 minutos, abrieron las puertas para subir al camión. Me despedí toda apurada, quisier haber tenido tiempo de darnos un fuerte abrazo, y nos fuimos al camión. Mi amiga nos subió las maletas para que alcanzáramos buen lugar de asiento, así que nos sentamos, esta vez dejé a mi amigo en la ventana, y mi amiga subio a darnos los tickets. Ahí me despedí solo de lejitos 😢.
+
+## Adiós Cuahutemoc, guardaré mis recuerdos por siempre
+Facilmente, en menos de 5 minutos, me solté llorando, le dije a mi amigo de que lo malo de estar en transición es que me ando haciendo bien bien llorona. Y el dijo, algo como "es normal si te estresaste", pensando que lloraba por que me estrese por alcanzar el camión. -No,le dije, -Fue por que me la pasé muy bien.
+
+No recuerdo mucho de la conversación, pero me dijo que el también sentía ganas de llorar solo que es hombre y se le dificulta mucho por eso. Es verdad, los hombres no pueden soltar sus sentimientos facilmente por tantas reglas que les inculca la sociedad desde que son pequeños :c.
+
+Facilmente llore durante media hora del viaje. Era el fin, el fin de 2 días increíbles, el fin de una aventura que aun y con problemas en casa decidí seguir adelante. Así terminaba el mejor viaje de mi vida, y yo llorando por que ya sentía nostalgia y tristeza de que terminara, de que son momentos que nunca más volverán, es alegría que se quedó en el pasado, y que ahora solo es parte más de una pintura de mi memoria.
+
+Luego de dejar de llorar, me empecé a despintar las uñas, perdon a quienes moleste con el olor de acetona UnU, no puedo llegar a casa con las uñas pintadas... Creo, no he tenido valentía para hacerlo, quizá este año la tenga.
+Luego de eso volví a llorar un ratito. El asiento era incomodo, me empezó a doler la espalda. En eso empecé a ver la película en el camion *The Banishees of Inisherin*. Buena película. Ya alguna vez había visto parte de la película pero debo terminar de verla en estos días.
+
+Llegamos a chihuahua a las 7:40, donde nos recogió el padre de mi amigo, mi amigo condujo el carro hasta su casa, donde dejamos a su padre, y me dio ride hasta mi casa. Mil, mil gracias, fuiste un apoyo muy grande durante el viaje.
+
+
+### Llegue a mi casa.
+Mi madre me recibio bonito, había pizza en la casa, como ese día comí poco debido al viaje, luego luego me senté a comer, y a platicar algunas cositas con mi madre. Ya se le había pasado el enojo y orgullo de la pelea y evidentemente la preocupación que sentía por mi era mucho mayor a las ganas de hacer cualquier reproche. Platiqué algunas cositas, aunque todo lo personal preferí mantenerlo para mí por que, cualquier cosita podía ser un detonante de una discusión, y quería mantener mis emociones bonitas. Y así fue, luego de platicar bonito media hora o una hora, me retire a mi cuarto ya que el sueño me ganaba.
+
+Unos momentos luego de entrar a mi cuarto, le mande mensajes con la persona que me seguía llamando por mi otro nombre para explicarle mi situación, y muy respetuosamente lo entendió, y me mostró su apoyo :3, mil gracias, nuevamente reitero, espero y logremos una bonita amistad 😊.
+
+Y así, me llegó el sueño y caí tumbada en pocos minutos.
+
+### Y así, el mejor viaje de mi vida concluyó.
+Un tobogán de emociones pero principalmente alegría y diversión es con lo que me quedo de la aventura.
+A la par, se me presentó una nueva meta de vida como mencioné antes, y junto a ella, mucha ilusión por vivir este nuevo año con todas las ganas por vivirlo.
+
+Adios 2024, crecí mucho contigo.
+Hola 2025, me estas sorprendiendo y te pido muchas más emociones.
+
+Esto es todo lo que tenía que contar, lo que tenía que recordar para la posterioridad. Soy Luz Elissa Adora Estrella (aun me debato cual nombre retirar jsjsjs), gracias por leerme queridx espectadorx, ten un muy bonito y especial 2025.

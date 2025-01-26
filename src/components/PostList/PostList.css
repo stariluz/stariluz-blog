@@ -1,0 +1,78 @@
+/* App.css o archivo de estilo global */
+.post-list {
+    padding: 20px;
+}
+
+.post-item {
+    background: rgb(76, 14, 40);
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    max-height: 200px;
+    overflow-y: hidden;
+    position: relative;
+    cursor: pointer;
+}
+
+.post-item-link {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    background: linear-gradient(45deg,
+            rgba(49, 6, 24, 0.1) 20px,
+            rgba(49, 6, 24, 0.1) 20%,
+            rgb(76, 14, 40, 0.025) calc(100% - 50px)),
+        linear-gradient(0deg,
+            rgb(49, 6, 24, 1) 20px,
+            rgb(76, 14, 40, 0) 30%);
+}
+
+.post-item-link::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    opacity: 1;
+    background: linear-gradient(45deg,
+            rgba(49, 6, 24, 0.5) 20px,
+            rgba(49, 6, 24, 0.1) 50%,
+            rgb(76, 14, 40, 0.025) calc(100% - 20px)),
+        linear-gradient(0deg,
+            rgb(49, 6, 24, 0.2) 20px,
+            rgb(76, 14, 40, 0) 30%);
+    pointer-events: none;
+    transition: opacity 0.2s linear;
+}
+
+.post-item:hover .post-item-link::before,
+.post-item-link:hover::before {
+    opacity: 0;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #8430eb;
+}
+
+p {
+    color: #e7e7e7;
+}
+
+a {
+    color: #2a5db0;
+    text-decoration: none;
+}

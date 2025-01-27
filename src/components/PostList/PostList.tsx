@@ -19,13 +19,15 @@ const PostList = () => {
     return encodeURIComponent(title.replace(/ /g, '-'));
   }
   return (
-    <div className="post-list">
-      <h1 className="header">
-
+    <div className="main">
+      <div className="header">
         <img className="profile-picture" src={`${import.meta.env.VITE_REPO_NAME ? '/' + import.meta.env.VITE_REPO_NAME : ''}/favicon.jpg`} alt="Profile photo" />
-        Soy Luz Elissa Adora
-      </h1>
-      <div className="grid">
+        <h1 className="header-title">
+          Soy Luz Elissa Adora
+        </h1>
+        <h2 className="username">@stariluz</h2>
+      </div>
+      <div className="post-list">
         {postsList.map((post, index) => (
           <div className="post-item-container">
             <div className="post-info">

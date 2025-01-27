@@ -21,7 +21,8 @@ const PostList = () => {
   return (
     <div className="post-list">
       <h1 className="header">
-        <img className="profile-picture" src="/favicon.jpg" alt="Profile photo" />
+
+        <img className="profile-picture" src={`${import.meta.env.VITE_REPO_NAME ? '/' + import.meta.env.VITE_REPO_NAME : ''}/favicon.jpg`} alt="Profile photo" />
         Soy Luz Elissa Adora
       </h1>
       <div className="grid">

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import MarkdownParser from "md-parser-react";
 import './PostView.css';
 import FormatDate from "../UI/FormatDate/FormatDate";
@@ -53,9 +53,10 @@ const PostView = () => {
     return (
         <div className="post-view">
             <MarkdownParser markdown={fileContent} classnames={{ h1: "title", blockquote: 'quote', code: 'code' }} />
-            <a className="back-btn svg-baseline" href="..">
+            
+            <Link to={`..`} className="back-btn svg-baseline">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="icon icon-tabler icons-tabler-outline icon-tabler-circle-arrow-left"><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path d="M12 21a9 9 0 1 0 0 -18a9 9 0 0 0 0 18" /><path d="M8 12l4 4" /><path d="M8 12h8" /><path d="M12 8l-4 4" /></svg>
-            </a>
+            </Link>
             <div className="post-info">
                 <div className="info-field">
                     <span className="info-field-name">Creado el</span>

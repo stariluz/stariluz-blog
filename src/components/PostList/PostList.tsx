@@ -20,7 +20,10 @@ const PostList = () => {
   }
   return (
     <div className="post-list">
-      <h1>Soy Luz Elissa Adora</h1>
+      <h1 className="header">
+        <img className="profile-picture" src="/favicon.jpg" alt="Profile photo" />
+        Soy Luz Elissa Adora
+      </h1>
       <div className="grid">
         {postsList.map((post, index) => (
           <div className="post-item-container">

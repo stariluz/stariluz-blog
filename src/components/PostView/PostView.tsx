@@ -2,36 +2,70 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import MarkdownParser from "md-parser-react";
 import './PostView.css';
+import FormatDate from "../UI/FormatDate/FormatDate";
+
+import posts from "../../data/posts.json"; // Importar el JSON generado
+
+interface Post {
+    title: string;
+    filename: string;
+    content: string;
+    createdAt: string;
+    updatedAt: string;
+}
+
+const postsList: Array<Post> = posts;
 
 const PostView = () => {
-    const { filename } = useParams<{ filename: string }>();
-    const [content, setContent] = useState<string | null>(null);
+    const { titleDate } = useParams<{ titleDate: string }>();
+    const [fileContent, setFileContent] = useState<string | null>(null);
+    const [post, setPost] = useState<Post | null>(null);
+
+    const [title, date] = titleDate?.split('_') || [];
 
     useEffect(() => {
         const fetchPost = async () => {
             try {
                 // Carga el contenido del archivo Markdown
-                const response = await fetch(`/posts/${filename}`);
+                const response = await fetch(`/posts/${date}.md`);
+                // Si no se encuentra en el JSON, intenta cargarlo desde el archivo Markdown
                 const markdown = await response.text();
-                setContent(markdown);
+                setFileContent(markdown);
+                const post = postsList.find(post => post.filename === `${date}.md`);
+                if (post) {
+                    setPost(post);
+                }
             } catch (error) {
                 console.error("Error al cargar el post:", error);
-                setContent(null);
+                setFileContent(null);
             }
         };
 
-        if (filename) {
+        if (date) {
             fetchPost();
         }
-    }, [filename]);
+    }, [title, date]);
 
-    if (!content) {
+    if (!fileContent || !post) {
         return <div>Loading...</div>;
     }
 
     return (
         <div className="post-view">
-            <MarkdownParser markdown={content} />
+            <MarkdownParser markdown={fileContent} classnames={{ h1: "title", blockquote: 'quote', code: 'code' }} />
+            <a className="back-btn svg-baseline" href="..">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="icon icon-tabler icons-tabler-outline icon-tabler-circle-arrow-left"><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path d="M12 21a9 9 0 1 0 0 -18a9 9 0 0 0 0 18" /><path d="M8 12l4 4" /><path d="M8 12h8" /><path d="M12 8l-4 4" /></svg>
+            </a>
+            <div className="post-info">
+                <div className="info-field">
+                    <span className="info-field-name">Creado el</span>
+                    <FormatDate date={post.createdAt} />
+                </div>
+                <div className="info-field">
+                    <span className="info-field-name">Editado el</span>
+                    <FormatDate date={post.updatedAt} />
+                </div>
+            </div>
         </div>
     );
 };

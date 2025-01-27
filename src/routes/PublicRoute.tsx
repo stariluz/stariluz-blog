@@ -7,7 +7,7 @@ const PublicRoute = () => {
     <Router>
       <Routes>
         <Route path="/" element={<PostList />} />
-        <Route path="/:filename" element={<PostView />} />
+        <Route path="/:titleDate" element={<PostView />} />
       </Routes>
     </Router>
   );

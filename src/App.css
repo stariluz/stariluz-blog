@@ -46,7 +46,7 @@
 
 .quote {
   background: linear-gradient(2deg,
-      rgb(64, 9, 32, 0.5)10%,
+      rgb(64, 9, 32, 0.5) 10%,
       rgb(110, 20, 58, 0.5) 90%,
       rgba(93, 13, 46, 0.5) 100%);
   padding: 4px 8px;

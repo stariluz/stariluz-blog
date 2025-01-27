@@ -2,6 +2,7 @@ import MarkdownParser from "md-parser-react";
 import posts from "../../data/posts.json"; // Importar el JSON generado
 import './PostList.css';
 import FormatDate from "../UI/FormatDate/FormatDate";
+import { Link } from "react-router-dom";
 
 interface Post {
   title: string;
@@ -34,9 +35,8 @@ const PostList = () => {
               </div>
             </div>
             <div key={index} className="post-item">
-            <MarkdownParser markdown={post.content} classnames={{ h1: "h2", blockquote: 'quote', code: 'code' }} />
-              <a href={`/${parseTitle(post.title)}_${post.createdAt}`} className="post-item-link">
-              </a>
+              <MarkdownParser markdown={post.content} classnames={{ h1: "h2", blockquote: 'quote', code: 'code' }} />
+              <Link to={`/${parseTitle(post.title)}_${post.createdAt}`} className="post-item-link"></Link>
             </div>
           </div>
         ))}

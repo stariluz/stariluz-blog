@@ -2,13 +2,16 @@
     max-width: 650px;
     text-align: left;
     position: relative;
+    box-sizing: border-box;
 }
 
 .title {
+    display: inline-block;
     margin-left: 2.5rem;
     margin-right: 8rem;
     color: #ed0092;
-    margin-bottom: 3rem;
+    margin-top: 0px;
+    margin-bottom: 2rem;
 }
 
 .back-btn {
@@ -54,4 +57,34 @@
 }
 .post-view .info-field::before {
     display: none;
+}
+
+
+@media (max-width:456px) {
+    .title {
+        margin-left: 0rem;
+        margin-right: 0rem;
+        color: #ed0092;
+        margin-top: 6rem;
+        margin-bottom: 3rem;
+        box-sizing: border-box;
+    }
+    .back-btn{
+        top: 0;
+    }
+    .post-view .post-info{
+        flex-direction: unset;
+        top: 0;
+        right: 0;
+    }
+    
+}
+
+@media (max-width:356px) {
+    .post-view .post-info{
+        flex-direction: column;
+        top: 0;
+        right: 0;
+    }
+    
 }

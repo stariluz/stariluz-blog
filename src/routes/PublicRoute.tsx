@@ -7,7 +7,7 @@ const PublicRoute = () => {
     <Router basename={process.env.NODE_ENV === 'production' ? `/${import.meta.env.VITE_REPO_NAME}/` : '/'}>
       <Routes>
         <Route path="/" element={<PostList />} />
-        <Route path="/:titleDate" element={<PostView />} />
+        <Route path="/:titleDates" element={<PostView />} />
       </Routes>
     </Router>
   );

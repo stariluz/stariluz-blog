@@ -17,21 +17,21 @@ interface Post {
 const postsList: Array<Post> = posts;
 
 const PostView = () => {
-    const { titleDate } = useParams<{ titleDate: string }>();
+    const { titleDates } = useParams<{ titleDates: string }>();
     const [fileContent, setFileContent] = useState<string | null>(null);
     const [post, setPost] = useState<Post | null>(null);
 
-    const [title, date] = titleDate?.split('_') || [];
-
+    // const [createdAt, updatedAt]=dates.split('M');
     useEffect(() => {
+        const [_, dates] = titleDates?.split('_') || [];
         const fetchPost = async () => {
             try {
                 // Carga el contenido del archivo Markdown
-                const response = await fetch(`${import.meta.env.VITE_REPO_NAME ? '/' + import.meta.env.VITE_REPO_NAME : ''}/posts/${date}.md`);
+                const response = await fetch(`${import.meta.env.VITE_REPO_NAME ? '/' + import.meta.env.VITE_REPO_NAME : ''}/posts/${dates}.md`);
                 // Si no se encuentra en el JSON, intenta cargarlo desde el archivo Markdown
                 const markdown = await response.text();
                 setFileContent(markdown);
-                const post = postsList.find(post => post.filename === `${date}.md`);
+                const post = postsList.find(post => post.filename === `${dates}.md`);
                 if (post) {
                     setPost(post);
                 }
@@ -41,10 +41,10 @@ const PostView = () => {
             }
         };
 
-        if (date) {
+        if (dates) {
             fetchPost();
         }
-    }, [title, date]);
+    }, [titleDates]);
 
     if (!fileContent || !post) {
         return <div>Loading...</div>;

@@ -12,8 +12,8 @@ const generatePostsJson = () => {
     try {
         const files = fs.readdirSync(postsDirectory).filter(file => file.endsWith(".md"));
 
-        const posts = files.map(file => {
-            const filePath = path.join(postsDirectory, file);
+        const posts = files.map(filename => {
+            const filePath = path.join(postsDirectory, filename);
             const fileContent = fs.readFileSync(filePath, "utf-8");
             const stats = fs.statSync(filePath);
 
@@ -22,22 +22,14 @@ const generatePostsJson = () => {
 
             // Obtener título (primera línea)
             const title = content.split("\n")[0].replace(/#/g, "").trim();
-
-            // Extraer fechas de creación y modificación
-            const createdAt = stats.birthtime; // Fecha de creación
-            const updatedAt = stats.mtime;  // Fecha de última modificación
-
-            // Ajustar la fecha a UTC-6 y obtener solo la fecha en formato YYYY-MM-DD
-            const adjustedDate = new Date(updatedAt);
-            adjustedDate.setHours(adjustedDate.getHours() - 6);  // Ajustar la hora a UTC-6
-            const formattedDate = adjustedDate.toISOString().split('T')[0];  // Extraer solo la fecha
-            
+            const dates=filename.split('.')[0];
+            const [createdAt, updatedAt]=dates.split('M');
             return {
-                title: title,
-                filename: file,
+                title,
+                filename,
                 content,
-                createdAt: file.split('.')[0],
-                updatedAt: formattedDate, // Convertir a formato ISO
+                createdAt,
+                updatedAt,
             };
         });
 

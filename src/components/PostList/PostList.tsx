@@ -42,7 +42,7 @@ const PostList = () => {
             </div>
             <div key={index} className="post-item">
               <MarkdownParser markdown={post.content} classnames={{ h1: "h2", blockquote: 'quote', code: 'code' }} />
-              <Link to={`/${parseTitle(post.title)}_${post.createdAt}`} className="post-item-link"></Link>
+              <Link to={`/${parseTitle(post.title)}_${post.createdAt}M${post.updatedAt}`} className="post-item-link"></Link>
             </div>
           </div>
         ))}

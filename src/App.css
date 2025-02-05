@@ -16,6 +16,15 @@
   border-radius: 4px;
 }
 
+.quote h3:first-child{
+  margin-top: 0px;
+  margin-bottom: 0.5rem;
+}
+.quote h3{
+  /* margin: 0; */
+  display: inline-block;
+}
+
 .code {
   background: rgb(37, 16, 25);
   padding: 4px 8px;

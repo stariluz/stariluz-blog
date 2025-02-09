@@ -8,17 +8,17 @@
   },
   {
     "title": "El mejor viaje de mi vida pt. 2",
-    "filename": "2025-01-09M2025-01-26.md",
-    "content": "# El mejor viaje de mi vida pt. 2\r\n\r\n> **January 9, 2025.** Ayer ya era noche y me distraje las ultimas 2 horas en el celular así que esto lo escribi a partir de hoy.\r\n\r\nContinuando, durante la fiesta, me presente como 3 o 4 veces, y [como este espacio lo ",
+    "filename": "2025-01-09M2025-02-05.md",
+    "content": "# El mejor viaje de mi vida pt. 2\r\n\r\n> **January 9, 2025.** Ayer ya era noche y me distraje las ultimas 2 horas en el celular así que esto lo escribi a partir de hoy.\r\n\r\nContinuando, durante la fiesta, me presenté como 3 o 4 veces, y [como este espacio lo ",
     "createdAt": "2025-01-09",
-    "updatedAt": "2025-01-26"
+    "updatedAt": "2025-02-05"
   },
   {
     "title": "El mejor viaje de mi vida pt. 3 y final",
-    "filename": "2025-01-10M2025-01-10.md",
-    "content": "# El mejor viaje de mi vida pt. 3 y final\r\n\r\n> Ya es mañana UwU, sigamos.\r\n\r\nEn fin, el karaoke nos duró mucho tiempo hasta que no recuerdo por que situación, nos fuimos adentro, creo que la gente se empezó a ir.\r\n\r\nAlgo muy gracioso es que lloré un poco, ",
+    "filename": "2025-01-10M2025-02-08.md",
+    "content": "# El mejor viaje de mi vida pt. 3 y final\r\n\r\n> Ya es mañana UwU, sigamos.\r\n\r\nEn fin. El karaoke nos duró mucho tiempo, y no recuerdo por qué situación, pero nos fuimos adentro, creo que la gente se empezó a ir.\r\n\r\nAlgo muy gracioso durante el karaoke, es q",
     "createdAt": "2025-01-10",
-    "updatedAt": "2025-01-10"
+    "updatedAt": "2025-02-08"
   },
   {
     "title": "Cosas que recordar de cuando estaba desarrollando el blog",
@@ -26,5 +26,19 @@
     "content": "# Cosas que recordar de cuando estaba desarrollando el blog\r\n\r\nEste post es un poco meta por que lo redacto mientras configuro el blog para poder publicarlo.\r\n\r\nComandos para actualizar las versiones de npm.\r\n`npm version patch`\r\n`npm version minor`\r\n`npm ",
     "createdAt": "2025-01-25",
     "updatedAt": "2025-01-26"
+  },
+  {
+    "title": "*Un día de mierda* fue lo que dije, pero no es verdad",
+    "filename": "2025-02-08M2025-02-09.md",
+    "content": "# *Un día de mierda* fue lo que dije, pero no es verdad\r\n\r\nRedacto esto el *8 de febrero del 2025* a 5 días de cumplir un año de haber pasado el peor día en mi vida el 13 de febrero de 2024, el día que fuí obligada a salir del closet en mi casa. No sé, aye",
+    "createdAt": "2025-02-08",
+    "updatedAt": "2025-02-09"
+  },
+  {
+    "title": "El día siguiente a *Un día de mierda*",
+    "filename": "2025-02-09M2025-02-09.md",
+    "content": "# El día siguiente a *Un día de mierda*\r\n\r\n¡Hola! Ya es domingo 9 y me propuse a terminar la historia de el día de ayer que quizá se complementa hasta hoy.\r\n\r\nContinuando con la historia. No recuerdo si fue en la noche o en la mañana, pero había bloqueado ",
+    "createdAt": "2025-02-09",
+    "updatedAt": "2025-02-09"
   }
 ]

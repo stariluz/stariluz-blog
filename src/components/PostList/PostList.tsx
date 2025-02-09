@@ -16,8 +16,10 @@ const postsList: Array<Post> = posts;
 
 const PostList = () => {
   const parseTitle = (title: string) => {
-    return encodeURIComponent(title.replace(/ /g, '-'));
-  }
+    // Remueve estilos de Markdown (*texto*, _texto_, **texto**, __texto__)
+    const cleanTitle = title.replace(/[*_]+(.*?)?[*_]+/g, '$1');
+    return encodeURIComponent(cleanTitle.replace(/ /g, '-'));
+  };
   return (
     <div className="main">
       <div className="header">

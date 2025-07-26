@@ -5,7 +5,20 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #1b0210;
+  /* background-color: #1b0210; */
+  
+    background: #5cc5f2;
+    background: linear-gradient(0deg,
+    rgba(92, 197, 242, 0.5) 2%,
+    rgba(109, 171, 232,  0.5) 8%,
+    rgba(247, 161, 197,  0.5) 16%,
+    rgba(255, 94, 180,  0.5) 33%,
+    rgba(255, 255, 255,  0.5) 44%,
+    rgba(255, 255, 255,  0.5) 56%,
+    rgba(255, 181, 222,  0.5) 61%,
+    rgba(255, 97, 189,  0.5) 77%,
+    rgba(109, 202, 242,  0.5) 89%,
+    rgba(52, 189, 227,  0.5) 98%);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

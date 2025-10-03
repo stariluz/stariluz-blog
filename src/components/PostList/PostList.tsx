@@ -12,7 +12,7 @@ interface Post {
   updatedAt: string;
 }
 
-const postsList: Array<Post> = posts;
+const postsList: Array<Post> = posts.reverse();
 
 const PostList = () => {
   const parseTitle = (title: string) => {
@@ -25,7 +25,7 @@ const PostList = () => {
       <div className="header">
         <img className="profile-picture" src={`${import.meta.env.VITE_REPO_NAME ? '/' + import.meta.env.VITE_REPO_NAME : ''}/favicon.jpg`} alt="Profile photo" />
         <h1 className="header-title">
-          Soy Luz Elissa Adora
+          Soy Luz Natalia Adora
         </h1>
         <h2 className="username">@stariluz</h2>
       </div>
